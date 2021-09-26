@@ -3,7 +3,7 @@ Disallow: /admin.txt
 Disallow: /login.txt
 Disallow: /flag.txt
 Disallow: /YouWillFindFlagHere.txt
-Disallow: /flag1.txt.txt
+Disallow: /flag1.txt
 Disallow: /lol.txt
 Disallow: /wordlists.txt
 Disallow: /PleaseHelp.txt
