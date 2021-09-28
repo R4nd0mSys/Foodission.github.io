@@ -7,3 +7,7 @@
 
 
                  https://drive.google.com/file/d/1RsDWDPbtFyqV2rKFwzIWC1M6giMrZmUk/view?usp=sharingso
+
+            Dont Know how to use john ???
+
+                This might help you than : https://www.quora.com/How-do-I-open-a-password-protected-RAR-file-using-Kali-Linux?share=1
